@@ -1,0 +1,5 @@
+1. Dosya yükleme sınırından dolayı APK GitHub'a yüklenememiştir.
+
+2. Veritabanım (postgresql) ve Backend sunucum (flask) Docker ortamında kuruludur. README.md dosyasındaki adımlar takip edilerek veritabanı için örnek veri sağlanabilir.
+
+3. Docker ve emulator arasındaki ağ iletişim sorunundan dolayı kodu yerel ortamda çalıştırırken ağ sorununu çözmek için APK mecburen development build olarak hazırlandı. Canlı ortama çıkacak uygulamada yerel IP adresleri kullanılmayacağı için bu bir sorun olmayacaktır.

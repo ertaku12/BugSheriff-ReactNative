@@ -97,6 +97,8 @@ INSERT INTO programs (name, description, application_start_date, application_end
 
 ## Download APK
 Install the APK file on your Android device/emulator.
+   
+   Link: https://drive.google.com/file/d/15QEb1TR7P5mX1G58UdhbQ59xwWLweUj9/view?usp=drive_link
 
 - App is now ready to use!
 
