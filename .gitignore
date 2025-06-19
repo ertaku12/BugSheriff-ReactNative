@@ -1,0 +1,39 @@
+/.vscode
+
+# dependencies
+#BugSheriff/node_modules/
+
+# Expo
+BugSheriff/.expo/
+BugSheriff/dist/
+BugSheriff/web-build/
+BugSheriff/expo-env.d.ts
+
+# Native
+BugSheriff/*.orig.*
+BugSheriff/*.jks
+BugSheriff/*.p8
+BugSheriff/*.p12
+BugSheriff/*.key
+BugSheriff/*.mobileprovision
+
+# Metro
+BugSheriff/.metro-health-check*
+
+# debug
+BugSheriff/npm-debug.*
+BugSheriff/yarn-debug.*
+BugSheriff/yarn-error.*
+
+# macOS
+BugSheriff/.DS_Store
+BugSheriff/*.pem
+
+# local env files
+BugSheriff/.env*.local
+
+# typescript
+BugSheriff/*.tsbuildinfo
+
+BugSheriff/app-example
+

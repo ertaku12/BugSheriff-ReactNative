@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+  <!-- tell the merger to only keep this one definition -->
+  <attr
+    name="actionBarSize"
+    tools:override="true"
+    format="dimension"/>
+</resources>
